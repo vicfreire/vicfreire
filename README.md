@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victoria</h1>
-<h2 align="center">sciense :electron: data :game_die: technology</h2> :robot:
+<h2 align="center">sciense :electron: data :game_die: technology :robot:</h2> :robot:
 
 - 🌱 I’m currently learning **Machine Learning**
 
