@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victoria</h1>
 <h2 align="center">science :electron: data :game_die: technology :robot:</h2> 
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **victoriavalentimfreire@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
